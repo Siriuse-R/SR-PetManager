@@ -1,0 +1,8 @@
+name: SR-PetManager
+version: version-number-unknown
+description: SR-PetManager
+authors: [SiriuseR]
+website: http://www.siriuser.net/
+main: net.siriuser.SRPetManager.SRPetManager
+commands:
+permissions:
